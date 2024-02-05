@@ -1,1 +1,1 @@
-My copy of the mage zoomcamp from Mage-ai(https://github.com/mage-ai/mage-zoomcamp) with some completed pipelines from exercises and homework.
+My copy of the mage zoomcamp from Mage-ai (https://github.com/mage-ai/mage-zoomcamp) with some completed pipelines from exercises.
