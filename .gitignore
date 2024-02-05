@@ -1,0 +1,7 @@
+**.env
+**.json
+
+## Mage
+mage_data/
+# artifact from tutorial
+titanic_clean.csv 
